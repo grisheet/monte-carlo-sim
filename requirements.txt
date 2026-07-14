@@ -1,0 +1,8 @@
+numpy>=1.26
+pandas>=2.0
+scipy>=1.11
+plotly>=5.18
+streamlit>=1.30
+openpyxl>=3.1
+# optional: in-app market data downloads
+# yfinance>=0.2
